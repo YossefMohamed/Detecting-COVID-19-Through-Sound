@@ -28,6 +28,7 @@ was collected via the “COVID-19 sounds” Android app as well as through a web
 survey Link
 COVID-19 Sounds App survey
 
+
 ![Tux, the Linux mascot](https://d3i71xaburhd42.cloudfront.net/5551059b93e66dee075463f0c79321a37e018e59/3-Figure1-1.png)
 APP SCREEN
 
