@@ -19,6 +19,7 @@ SVM models to classify if a person have COVID or not from speech,
 Each branch consists of a Convolutional Neural Network (CNN)
 Spectrograms are visual representations of audio , which are computed by calculating the Short-Time Fourier Transform (STFT)  by cutting the audio into (not necessarily overlapping-) chunks and then computing the Discrete Fourier Transform (DFT)
 
+![Tux, the Linux mascot](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9474585/9474649/9474658/9474658-fig-1-source-large.gif)
 
 DataBase:
 
@@ -27,19 +28,8 @@ was collected via the “COVID-19 sounds” Android app as well as through a web
 survey Link
 COVID-19 Sounds App survey
 
-
-
-
-
-![Tux, the Linux mascot](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9474585/9474649/9474658/9474658-fig-1-source-large.gif)
-
-
-
-
-
+![Tux, the Linux mascot](https://d3i71xaburhd42.cloudfront.net/5551059b93e66dee075463f0c79321a37e018e59/3-Figure1-1.png)
 APP SCREEN
-
-
 
 Accuracy:
  It achieves an Unweighted Average Recall (UAR) of 74.9 %, or an Area Under ROC Curve (AUC) of 80.7% by ensembling neural networks. it achieves an Unweighted Average Recall (UAR) of 74.9 %, or an Area Under ROC Curve (AUC) of 80.7% by ensembling neural networks
