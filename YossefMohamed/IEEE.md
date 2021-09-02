@@ -31,14 +31,7 @@ COVID-19 Sounds App survey
 
 
 
-
-
-
-
-
-
-
-
+![Tux, the Linux mascot](https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9474585/9474649/9474658/9474658-fig-1-source-large.gif)
 
 
 
