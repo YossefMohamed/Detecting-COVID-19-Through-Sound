@@ -4,7 +4,7 @@ Paper link : https://06104wbu4-1105-y-https-ieeexplore-ieee-org.mplbci.ekb.eg/st
 
 Date : 21 April 2021
 
-features :  ,,
+features :  l
 Dataset : Data from two open-source databases : Coswara, Virufy.
 classification : 
 accuracy : 
