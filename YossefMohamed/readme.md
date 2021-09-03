@@ -57,11 +57,11 @@ Label smoothing is randomly applied between 0.1 and 0.3
 
 
 # DataBase:
-## Non covid database
+### Non covid database
 FreeSound Database 2018 (Fonseca et al. 2018)
 Flusense (Al Hossain et al. 2020)
 Coswara (Sharma et al. 2020)
-## Covid database
+### Covid database
 data collection efforts have yielded a dataset of 3,621 individuals, of which 2,001 have tested positive.
 
 # Accuracy:
