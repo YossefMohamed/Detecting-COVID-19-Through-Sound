@@ -49,14 +49,14 @@ a batch size of 32 and train for a total of 110 epochs
 Label smoothing is randomly applied between 0.1 and 0.3
 
 # Features:
-(1) Logistic Regression (LR)
-(2) Gradient Boosting Trees 
-(3) Extreme Gradient Boosting (XGBoost) and 
-(4) Support Vector Machines (SVMs). As input to the classifiers,sarily overlapping-) chunks and then computing the Discrete Fourier Transform (DFT)
-(5) Deep Convolutional Neural Networks (CNNs)
+(1) Logistic Regression (LR) \n
+(2) Gradient Boosting Trees \n
+(3) Extreme Gradient Boosting (XGBoost) and \n
+(4) Support Vector Machines (SVMs). As input to the classifiers,sarily overlapping-) chunks and then computing the Discrete Fourier Transform (DFT)\n
+(5) Deep Convolutional Neural Networks (CNNs)\n
 
 
-#DataBase:
+# DataBase:
 ## Non covid database
 FreeSound Database 2018 (Fonseca et al. 2018)
 Flusense (Al Hossain et al. 2020)
