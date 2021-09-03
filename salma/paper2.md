@@ -23,6 +23,6 @@ https://arxiv.org/pdf/2108.03041.pdf
  
 
 # accuracy : 
-##### , the feature-level attention achieves an AUC of 77.96% on the test set, resulting in an improvement of the baseline
+##### the feature-level attention achieves an AUC of 77.96% on the test set, resulting in an improvement of the baseline
 
 
