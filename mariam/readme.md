@@ -12,7 +12,7 @@ Videos and Freesound audio Database
 # Accuracy:
 .946 AUC
 
-## *************************************************************************************
+<hr />
 
 # Paper 2 name:  
 COVID-19 Cough Classification using Machine
@@ -26,7 +26,8 @@ https://arxiv.org/pdf/2012.01926
 2-	Multilayer perceptron (MLP).
 3-	K-nearest neighbour (KNN).
 4-	Long short-term memory (LSTM).
-# Features: MFCC, CNN
+# Features: 
+MFCC, CNN
 # Data set: 
 1-The Coswara Dataset: https://coswara.iisc.ac.in  the collected audio data includes fast and slow breathing, deep and shallow coughing, phonation of sustained vowels and spoken digits. There are 1079 healthy and 92 COVID-19 positive subjects.
 2- The Sarcos Dataset: https://coughtest.online   there are 26 COVID-19 negative and 18 COVID-19 positive subjects
