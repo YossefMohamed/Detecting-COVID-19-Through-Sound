@@ -79,7 +79,8 @@ plt.show()
 ```
 **Run the code in Python, and you’ll get the following Confusion Matrix with an Accuracy of 0.8 (note that depending on your sklearn version, you may get a different accuracy results. In my case, the sklearn version is 0.22.2):**
 
-![screenshot_20210917_191554](https://user-images.githubusercontent.com/47748059/133828208-631364a3-7fc8-44c2-ad9d-8fbe2c86226b.png)
+![screenshot_20210917_193142](https://user-images.githubusercontent.com/47748059/133830105-55d35187-344e-466b-b7af-c95bb922c9ab.png)
+
 
 As can be observed from the matrix:
 
