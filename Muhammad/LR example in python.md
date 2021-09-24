@@ -18,9 +18,9 @@
 2. **Step 2: Import the needed Python packages**
 
    Before you start, make sure that the following packages are installed in Python:
-- `pandas `– used to create the DataFrame to capture the dataset in Python
-- `sklearn `– used to build the logistic regression model in Python
-- `seaborn `– used to create the Confusion Matrix
+- `pandas `– used to create the DataFrame to capture the dataset in Python (reading and writing data )
+- `sklearn `– used to build the logistic regression model in Python (efficient tools for predictive data analysis)
+- `seaborn `– used to create the Confusion Matrix (Python data visualization library)
 - `matplotlib `– used to display charts
 
 You’ll then need to import all the packages as follows:
