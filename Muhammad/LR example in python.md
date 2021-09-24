@@ -92,3 +92,4 @@ As can be observed from the matrix:
 Accuracy = (TP+TN)/Total = (4+4)/10 = 0.8
 The accuracy is therefore 80% for the test set.
 
+![123](https://user-images.githubusercontent.com/47748059/134719295-a64b5c73-54b6-44a8-9ee0-54d1147f879c.png)
