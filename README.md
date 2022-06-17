@@ -2,4 +2,9 @@
 
 
 # 1- Datasets:
-1
+- Coswara: https://github.com/iiscleap/Coswara-Data
+- Coughvid: https://zenodo.org/record/4498364#.YqzrdOxBy3A
+
+# 2- Models:
+- machine_learning_models.ipynp: contains our machin learning models implementations (svm with linear kernel, svm with RBF kernel, KNN, Random Forest, Gradient Boosting)
+- 
