@@ -12,8 +12,8 @@
 
 # 3- Model deplyment:
 deploy.ipynb
-# 4- Mobile Application Repo:
+# 4- Mobile Application :
 https://github.com/MohamedSalahApdElzaher/cov_back_6
 
-# 5- Backend Repo:
+# 5- API:
 https://github.com/YossefMohamed/covid-app-api
